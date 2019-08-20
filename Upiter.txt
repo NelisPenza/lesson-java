@@ -1,0 +1,4 @@
+public class Upiter {
+	System.out.println("Hi, people!");
+
+}
