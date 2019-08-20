@@ -1,3 +1,5 @@
 public class Goodbye {
+	Srting name;
+	System.out.println("Goodbye, " + name);
 
 }
