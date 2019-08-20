@@ -3,6 +3,8 @@ class HelloWorld {
 	System.out.println("Привет, мир!");
 
 }
-
+public class Sun {
+	System.out.println("Здравствуй, Солнце!");
+}
 
 }
