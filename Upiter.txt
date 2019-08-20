@@ -1,5 +1,4 @@
 public class Upiter {
 	System.out.println("Hi, people!");
-	System.out.println("How do you do?");
 
 }
