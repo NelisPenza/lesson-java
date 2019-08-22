@@ -3,12 +3,23 @@ class HelloWorld {
 	System.out.println("Привет, мир!");
 
 }
-public class Sun {
+class Sun {
 	System.out.println("Здравствуй, Солнце!");
 }
 
-public class сруещ {
-	System.out.println("Здравствуй, Солнце!");
+class Moon {
+	System.out.println("Здравствуй, Луна!");
 }
+
+class Mars {
+	System.out.println("Здравствуй, Марс!");
+}
+
+class Venus {
+	System.out.println("Здравствуй, Венера!");
+
+}
+public class Uran {
+	System.out.println("Здравствуй, Уран!");
 
 }
