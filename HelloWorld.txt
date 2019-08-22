@@ -23,3 +23,8 @@ public class Uran {
 	System.out.println("Здравствуй, Уран!");
 
 }
+
+public class Pluto {
+	System.out.println("Здравствуй, Плутон!");
+
+}
