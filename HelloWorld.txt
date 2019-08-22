@@ -14,4 +14,9 @@ class Moon {
 class Mars {
 	System.out.println("Здравствуй, Марс!");
 }
+
+class Venus {
+	System.out.println("Здравствуй, Венера!");
+}
+
 }
